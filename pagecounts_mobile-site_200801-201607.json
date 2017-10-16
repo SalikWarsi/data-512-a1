@@ -1,0 +1,158 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3091546685,
+            "timestamp": "2014100100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3027489668,
+            "timestamp": "2014110100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3278950021,
+            "timestamp": "2014120100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3485302091,
+            "timestamp": "2015010100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3091534479,
+            "timestamp": "2015020100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3330832588,
+            "timestamp": "2015030100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3222089917,
+            "timestamp": "2015040100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3334069483,
+            "timestamp": "2015050100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3038162463,
+            "timestamp": "2015060100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3254472695,
+            "timestamp": "2015070100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3268487582,
+            "timestamp": "2015080100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3172429827,
+            "timestamp": "2015090100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3246082505,
+            "timestamp": "2015100100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3218234512,
+            "timestamp": "2015110100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3387411863,
+            "timestamp": "2015120100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3739628742,
+            "timestamp": "2016010100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3333231392,
+            "timestamp": "2016020100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3419853636,
+            "timestamp": "2016030100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3301385124,
+            "timestamp": "2016040100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3418435805,
+            "timestamp": "2016050100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3372618063,
+            "timestamp": "2016060100",
+            "access-site": "mobile-site"
+        },
+        {
+            "project": "en.wikipedia",
+            "granularity": "monthly",
+            "count": 3500661121,
+            "timestamp": "2016070100",
+            "access-site": "mobile-site"
+        }
+    ]
+}
