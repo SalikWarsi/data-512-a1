@@ -29,7 +29,7 @@ The JSON files are as follows:
 5. pageviews_mobile-app_201507-201709.json: Mobile App Page Views from July 2015 to September 2017
 
 ## Data Processing
-We process the data from all 5 and combine it into a csv file. For both PageCounts(Legacy) and Page Views we count total Page Views and for PageView we also combine the Mobile web and Mobile App data to calculate total mobile page views.
+We process the data from all 5 and combine it into a csv file: en-wikipedia_traffic_200801-201709.csv . For both PageCounts(Legacy) and Page Views we count total Page Views and for PageView we also combine the Mobile web and Mobile App data to calculate total mobile page views.
 The CSV file has the following Columns:
 
 | Column                  | Values                                 |
@@ -47,7 +47,7 @@ Note: If data doesn't exist for a particular date, I replaced it with 0
 
 ## Data Analysis
 
-I read from the CSV and plot the values using Matplotlib. The jupyter notebook contains an inline image and also produces a png file.
+I read from the CSV and plot the values using Matplotlib. The jupyter notebook contains an inline image and also produces a png file: PageViewsWikipediaEn.png
 
 ## Tools
 The entire analysis was done using Python 3.5.3 :: Anaconda custom (64-bit)
