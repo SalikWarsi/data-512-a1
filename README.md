@@ -14,7 +14,7 @@ I used API Version 1.0 to get this data
 
 [Terms for use for WikiMedia](https://wikimediafoundation.org/wiki/Terms_of_Use/en)
 
-Wikimedia licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Data Acquisition
 We call the PageCounts API twice (once for desktop and once for mobile) and the PageViews API thrice (for desktop, mobile web and mobile app) and write each data in JSON file. For PageViews API we filter out web crawler traffic by passing user-agent = user. This is why we later see that there is a drop in total page visits between the 2 APIs. 
